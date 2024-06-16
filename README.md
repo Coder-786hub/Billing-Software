@@ -42,7 +42,7 @@ This is a simple billing software application built using Python and Tkinter. Th
 - **Button Frame**: Contains buttons for calculating totals, generating the bill, clearing entries, and exiting the application.
 
 ## Screenshots
-![Billing Software](Project_view.png)
+![Billing Software](Project_View.png)
 
 ## Contributing
 1. Fork the repository.
