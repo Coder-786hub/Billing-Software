@@ -1,27 +1,32 @@
 # Billing Software
 
 ## Overview
-This is a simple billing software application built using Python and Tkinter. The software allows users to enter product details for cosmetics, groceries, and cold drinks, calculate the total price, generate a bill, and clear the entries. The user interface is designed with Tkinter widgets to ensure ease of use.
+This is a simple billing software application built using Python, Tkinter, and MySQL. The software allows users to enter product details for cosmetics, groceries, and cold drinks, calculate the total price, generate a bill, store the bill details in a MySQL database, and clear the entries. The user interface is designed with Tkinter widgets to ensure ease of use.
 
 ## Features
 - Add and manage products in different categories: Cosmetics, Groceries, and Cold Drinks.
-- Calculate the total price including taxes.
-- Generate a bill with detailed information.
-- Clear all entries.
-- Exit the application.
+Calculate the total price including taxes.
+Generate a bill with detailed information.
+Store bill details in a MySQL database.
+Clear all entries.
+Exit the application.
+Pay Button.
 
 ## Prerequisites
-- Python 3.x
-- Tkinter (usually included with Python standard libraries)
+Python 3.x
+Tkinter (usually included with Python standard libraries)
+MySQL database
 
 ## Installation
 1. Clone the repository:
     ```sh
     git clone https://github.com/Coder-786hub/billing-software.git
+
     ```
 2. Navigate to the project directory:
     ```sh
     cd billing-software
+
     ```
 
 ## Usage
@@ -43,7 +48,11 @@ This is a simple billing software application built using Python and Tkinter. Th
 
 ## Screenshots
 ![Billing Software](Project_View.png)
-
+![Billing Software](Screenshot 2024-07-18 121523.png)
+![Billing Software](Project_View.png)
+![Billing Software](Project_View.png)
+![Billing Software](Project_View.png)
+![Billing Software](Project_View.png)
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
