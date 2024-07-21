@@ -48,11 +48,10 @@ MySQL database
 
 ## Screenshots
 ![Billing Software](Project_View.png)
-![Billing Software](Screenshot 2024-07-18 121523.png)
-![Billing Software](Screenshot 2024-07-18 120841.png)
-![Billing Software](Screenshot 2024-07-18 120930.png)
-![Billing Software](Screenshot 2024-07-18 121513.pngg)
-![Billing Software](Screenshot 2024-07-18 121523.pn)
+![Billing Software](Main Window.png)
+![Billing Software](Payment.png)
+![Billing Software](Qr.png)
+![Billing Software](Email.png)
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
