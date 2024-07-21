@@ -47,8 +47,7 @@ MySQL database
 - **Button Frame**: Contains buttons for calculating totals, generating the bill, clearing entries, and exiting the application.
 
 ## Screenshots
-![Billing Software](Project_View.png)
-![Billing Software](Main Window.png)
+![Billing Software](Main_window.png)
 ![Billing Software](Payment.png)
 ![Billing Software](Qr.png)
 ![Billing Software](Email.png)
